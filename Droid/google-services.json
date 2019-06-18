@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "180173281660",
+    "firebase_url": "https://testappcenter-9f17b.firebaseio.com",
+    "project_id": "testappcenter-9f17b",
+    "storage_bucket": "testappcenter-9f17b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180173281660:android:a8df536ebd2424f3",
+        "android_client_info": {
+          "package_name": "com.monojitms.development.POCs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180173281660-rsglhgpkeoq7lbtkcbapoqmmjk6j81tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLwsRuAUcuWA_NB14iYclN2xfC6dSi960"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
