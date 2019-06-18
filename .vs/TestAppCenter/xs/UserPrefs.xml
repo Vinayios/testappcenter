@@ -1,19 +1,20 @@
 ﻿<Properties StartupConfiguration="{F02BB5E3-F051-4AED-9E74-BB1C908D7738}|Default">
   <MonoDevelop.Ide.ItemProperties.TestAppCenter.Droid PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
     <Files>
       <File FileName="iOS/AppDelegate.cs" Line="10" Column="37" />
-      <File FileName="Droid/MainActivity.cs" Line="65" Column="66" />
+      <File FileName="Droid/MainActivity.cs" Line="84" Column="17" />
+      <File FileName="iOS/Info.plist" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TestAppCenter" expanded="True">
             <Node name="TestAppCenter" expanded="True" />
-            <Node name="TestAppCenter.Droid" expanded="True">
-              <Node name="MainActivity.cs" selected="True" />
+            <Node name="TestAppCenter.Droid" expanded="True" />
+            <Node name="TestAppCenter.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
             </Node>
-            <Node name="TestAppCenter.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -25,5 +26,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TestAppCenter.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.83DE8894-7D6C-49F3-AB11-2CB46C10585E" />
+  <MonoDevelop.Ide.ItemProperties.TestAppCenter.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.83DE8894-7D6C-49F3-AB11-2CB46C10585E" />
 </Properties>

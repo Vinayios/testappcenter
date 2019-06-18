@@ -81,6 +81,7 @@ namespace TestAppCenter.Droid
 
                 Analytics.TrackEvent("Button Clicked from  - Android");
                 // Crashes.GenerateTestCrash();
+
                 GenerateDummyException();
 
             };
