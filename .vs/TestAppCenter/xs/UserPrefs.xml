@@ -12,19 +12,17 @@
           <Node name="TestAppCenter" expanded="True">
             <Node name="TestAppCenter" expanded="True" />
             <Node name="TestAppCenter.Droid" expanded="True" />
-            <Node name="TestAppCenter.iOS" expanded="True">
-              <Node name="Info.plist" selected="True" />
-            </Node>
+            <Node name="TestAppCenter.iOS" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TestAppCenter.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.83DE8894-7D6C-49F3-AB11-2CB46C10585E" />
+  <MonoDevelop.Ide.ItemProperties.TestAppCenter.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
 </Properties>
